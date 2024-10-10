@@ -1,0 +1,730 @@
+[
+  {
+    "id": "A001167246",
+    "label": "A001167246",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A001167246/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A001167246_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A001167246_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA001167246%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002007118",
+    "label": "A002007118",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002007118/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002007118_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002007118_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002007118%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002096278",
+    "label": "A002096278",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002096278/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002096278_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002096278_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002096278%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002249550",
+    "label": "A002249550",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002249550/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002249550_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002249550_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002249550%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002268132",
+    "label": "A002268132",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002268132/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002268132_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002268132_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002268132%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002358705",
+    "label": "A002358705",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002358705/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002358705_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002358705_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002358705%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002395061",
+    "label": "A002395061",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002395061/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002395061_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002395061_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002395061%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002475884",
+    "label": "A002475884",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002475884/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002475884_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002475884_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002475884%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002530283",
+    "label": "A002530283",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002530283/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002530283_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002530283_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002530283%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002569848",
+    "label": "A002569848",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002569848/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002569848_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002569848_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002569848%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002617702",
+    "label": "A002617702",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002617702/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002617702_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002617702_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002617702%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002695606",
+    "label": "A002695606",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002695606/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002695606_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002695606_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002695606%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A002886790",
+    "label": "A002886790",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A002886790/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002886790_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A002886790_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA002886790%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003029228",
+    "label": "A003029228",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003029228/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003029228_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003029228_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003029228%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003048788",
+    "label": "A003048788",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003048788/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003048788_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003048788_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003048788%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003116480",
+    "label": "A003116480",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003116480/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003116480_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003116480_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003116480%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003142739",
+    "label": "A003142739",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003142739/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003142739_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003142739_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003142739%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003180597",
+    "label": "A003180597",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003180597/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003180597_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003180597_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003180597%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003366701",
+    "label": "A003366701",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003366701/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003366701_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003366701_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003366701%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003499403",
+    "label": "A003499403",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003499403/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003499403_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003499403_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003499403%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003565046",
+    "label": "A003565046",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003565046/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003565046_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003565046_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003565046%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003654558",
+    "label": "A003654558",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003654558/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003654558_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003654558_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003654558%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003662199",
+    "label": "A003662199",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003662199/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003662199_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003662199_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003662199%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003771647",
+    "label": "A003771647",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003771647/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003771647_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003771647_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003771647%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003848933",
+    "label": "A003848933",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003848933/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003848933_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003848933_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003848933%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A003949725",
+    "label": "A003949725",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A003949725/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003949725_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A003949725_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA003949725%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004048705",
+    "label": "A004048705",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004048705/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004048705_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004048705_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004048705%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004188391",
+    "label": "A004188391",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004188391/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004188391_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004188391_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004188391%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004206197",
+    "label": "A004206197",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004206197/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004206197_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004206197_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004206197%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004217910",
+    "label": "A004217910",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004217910/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004217910_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004217910_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004217910%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004219408",
+    "label": "A004219408",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004219408/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004219408_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004219408_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004219408%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004231742",
+    "label": "A004231742",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004231742/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004231742_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004231742_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004231742%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004298043",
+    "label": "A004298043",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004298043/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004298043_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004298043_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004298043%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004473823",
+    "label": "A004473823",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004473823/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004473823_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004473823_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004473823%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004638349",
+    "label": "A004638349",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004638349/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004638349_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004638349_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004638349%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004687610",
+    "label": "A004687610",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004687610/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004687610_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004687610_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004687610%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004807252",
+    "label": "A004807252",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004807252/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004807252_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004807252_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004807252%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004807253",
+    "label": "A004807253",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004807253/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004807253_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004807253_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004807253%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A004822412",
+    "label": "A004822412",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A004822412/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004822412_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A004822412_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA004822412%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A005020413",
+    "label": "A005020413",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A005020413/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005020413_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005020413_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA005020413%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A005219990",
+    "label": "A005219990",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A005219990/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005219990_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005219990_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA005219990%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A005360656",
+    "label": "A005360656",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A005360656/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005360656_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005360656_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA005360656%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A005476668",
+    "label": "A005476668",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A005476668/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005476668_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A005476668_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA005476668%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A006297555",
+    "label": "A006297555",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A006297555/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A006297555_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A006297555_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA006297555%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A007909065",
+    "label": "A007909065",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A007909065/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007909065_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007909065_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA007909065%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A007909069",
+    "label": "A007909069",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A007909069/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007909069_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007909069_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA007909069%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A007963988",
+    "label": "A007963988",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A007963988/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007963988_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007963988_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA007963988%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A007964228",
+    "label": "A007964228",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A007964228/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007964228_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A007964228_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA007964228%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A011404493",
+    "label": "A011404493",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A011404493/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A011404493_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A011404493_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA011404493%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A011436378",
+    "label": "A011436378",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A011436378/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A011436378_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A011436378_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA011436378%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A013085777",
+    "label": "A013085777",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A013085777/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A013085777_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A013085777_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA013085777%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A014704318",
+    "label": "A014704318",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A014704318/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A014704318_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A014704318_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA014704318%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A02060387",
+    "label": "A02060387",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A02060387/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02060387_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02060387_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA02060387%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A02217498",
+    "label": "A02217498",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A02217498/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02217498_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02217498_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA02217498%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A02682371",
+    "label": "A02682371",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A02682371/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02682371_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A02682371_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA02682371%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A11407219",
+    "label": "A11407219",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A11407219/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A11407219_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A11407219_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA11407219%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A13053834",
+    "label": "A13053834",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A13053834/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A13053834_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A13053834_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA13053834%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A1871840",
+    "label": "A1871840",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A1871840/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A1871840_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A1871840_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA1871840%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A1928655",
+    "label": "A1928655",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A1928655/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A1928655_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A1928655_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA1928655%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A20279966",
+    "label": "A20279966",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A20279966/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A20279966_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A20279966_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA20279966%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A2386307",
+    "label": "A2386307",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A2386307/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2386307_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2386307_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA2386307%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A2471498",
+    "label": "A2471498",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A2471498/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2471498_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2471498_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA2471498%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A2500738",
+    "label": "A2500738",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A2500738/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2500738_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2500738_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA2500738%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A2654848",
+    "label": "A2654848",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A2654848/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2654848_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2654848_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA2654848%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A2842675",
+    "label": "A2842675",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A2842675/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2842675_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A2842675_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA2842675%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3003995",
+    "label": "A3003995",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3003995/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3003995_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3003995_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3003995%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3111313",
+    "label": "A3111313",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3111313/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3111313_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3111313_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3111313%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3116307",
+    "label": "A3116307",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3116307/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3116307_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3116307_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3116307%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3240737",
+    "label": "A3240737",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3240737/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3240737_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3240737_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3240737%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3287954",
+    "label": "A3287954",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3287954/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3287954_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3287954_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3287954%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3309549",
+    "label": "A3309549",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3309549/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3309549_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3309549_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3309549%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3558817",
+    "label": "A3558817",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3558817/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3558817_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3558817_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3558817%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3601124",
+    "label": "A3601124",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3601124/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3601124_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3601124_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3601124%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3778979",
+    "label": "A3778979",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3778979/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3778979_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3778979_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3778979%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A3926182",
+    "label": "A3926182",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A3926182/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3926182_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A3926182_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA3926182%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A39854673",
+    "label": "A39854673",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A39854673/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A39854673_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A39854673_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA39854673%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4274415",
+    "label": "A4274415",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4274415/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4274415_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4274415_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4274415%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4429922",
+    "label": "A4429922",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4429922/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4429922_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4429922_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4429922%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4532086",
+    "label": "A4532086",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4532086/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4532086_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4532086_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4532086%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4544849",
+    "label": "A4544849",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4544849/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4544849_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4544849_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4544849%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4596000",
+    "label": "A4596000",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4596000/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4596000_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4596000_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4596000%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4774841",
+    "label": "A4774841",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4774841/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4774841_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4774841_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4774841%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4777338",
+    "label": "A4777338",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4777338/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4777338_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4777338_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4777338%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A4777352",
+    "label": "A4777352",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A4777352/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4777352_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A4777352_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA4777352%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A5100014",
+    "label": "A5100014",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A5100014/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5100014_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5100014_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA5100014%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A5485880",
+    "label": "A5485880",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A5485880/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5485880_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5485880_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA5485880%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A57187770",
+    "label": "A57187770",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A57187770/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A57187770_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A57187770_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA57187770%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A5741406",
+    "label": "A5741406",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A5741406/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5741406_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A5741406_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA5741406%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A7797237",
+    "label": "A7797237",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A7797237/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A7797237_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A7797237_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA7797237%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A8057322",
+    "label": "A8057322",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A8057322/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A8057322_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A8057322_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA8057322%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  },
+  {
+    "id": "A8953282",
+    "label": "A8953282",
+    "manifest_url": "https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com/og-2024-sf-nara/A8953282/manifest.json",
+    "thumbnail_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A8953282_0000/square/250,/0/default.jpg",
+    "full_url": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2024-sf-nara_A8953282_0000/full/full/0/default.jpg",
+    "viewpoint_url": "https://migrants-and-the-state.github.io/viewpoint/mirador/#manifests[]=https%3A%2F%2Fmats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com%2Fog-2024-sf-nara%2FA8953282%2Fmanifest.json&theme=light&thumbs=bottom&view=single&workspacecontrols=false"
+  }
+]
