@@ -35,7 +35,7 @@ namespace :s3 do
     desc 'sync local json to s3'
     task :json do
       Dir.glob("#{JSON_DIR}/**/*.json").each do |path|
-      key = path.sub JSON_DIR, ''
+      key = path.sub "#{JSON_DIR}/", ''
       s3.put_object({
         bucket: ENV['PRESENTATION_BUCKET_NAME'],
         key: key,
