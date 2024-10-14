@@ -1,9 +1,4 @@
-require 'fileutils'
+require 'og_tasks'
 
-require_relative 'lib/vars'
-require_relative 'lib/utils'
-
-Dir.glob("lib/tasks/*.rake").each { |r| load r }
-
-
-
+spec = Gem::Specification.find_by_name 'og_tasks'
+Dir.glob("#{spec.gem_dir}/lib/**/*.rake").each { |r| load r }
